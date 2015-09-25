@@ -2,4 +2,4 @@
 # My first repository on github.
 # It's not an useful repository
 
-:sun: :sun: :sun:
+:coffee: :coffee: :coffee:
